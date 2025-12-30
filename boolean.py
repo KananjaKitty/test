@@ -8,7 +8,7 @@ s = 7 + 8 - 5
 t = 3**2
 u = s <= t
 
-#print(f"exercise 1, answers: {u}")
+print(f"exercise 1, answers: {u}")
 
 # what will u evaluate to?
 
